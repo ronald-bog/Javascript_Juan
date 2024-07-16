@@ -1,19 +1,15 @@
 const letra = 'f';
 
 switch (letra) {
-    case 'a': {
+    case 'a':
         console.log('seleccionaste a');
         break;
-    }
-    case 'b': {
+    case 'b':
         console.log('seleccionaste b');
         break;
-    }
-    case 'c': {
+    case 'c':
         console.log('seleccionaste c');
         break;
-    }
-    default: {
+    default:
         console.log('por defecto');
-    }
 }
