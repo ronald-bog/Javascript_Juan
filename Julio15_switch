@@ -13,3 +13,20 @@ switch (letra) {
     default:
         console.log('por defecto');
 }
+
+
+const numero = 5;
+/* 
+switch (numero + 10) {
+    case 15:
+        console.log('seleccionaste a');
+        break;
+    case 25:
+        console.log('seleccionaste b');
+        break;
+    case 35:
+        console.log('seleccionaste c');
+        break;
+    default:
+        console.log('por defecto');
+} */
